@@ -1,5 +1,6 @@
-![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
+![MIT](https://img.shields.io/badge/license-MIT-blue)
 ![Lua](https://img.shields.io/badge/language-Lua-00007b)
+![Version](https://img.shields.io/badge/version-3.0.0-purple)
 
 # Honeypot WAF – Professional L7 DDoS Protection (v3.0.0)
 
