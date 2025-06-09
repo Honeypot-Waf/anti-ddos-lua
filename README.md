@@ -1,3 +1,6 @@
+![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Lua](https://img.shields.io/badge/language-Lua-00007b)
+
 # Honeypot WAF – Professional L7 DDoS Protection (v3.0.0)
 
 **Advanced Lua-based Layer 7 (HTTP) DDoS mitigation module** designed for NGINX/OpenResty environments. This module provides real-time protection against HTTP flood attacks, Slowloris behavior, abusive bots, and malicious URI patterns. It includes intelligent rate-limiting, cookie-based JS challenges, IP reputation checks, and customizable IP-based bypass logic for trusted traffic.
